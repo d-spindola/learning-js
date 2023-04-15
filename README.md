@@ -1,4 +1,4 @@
 # virtual-keyboard
 learning-js
 
-So dando uma estudada em vanilla.
+Chilling and coding with native resources.
