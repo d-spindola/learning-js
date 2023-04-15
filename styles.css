@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+}
+
+ul,
+li {
+  list-style-type: none;
+}
+
+#keys {
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 48, 180, 0.911) 40%,
+    rgb(58, 54, 108) 100%
+  );
+  padding: 1.5em;
+  border-radius: 6px;
+}
+
+button {
+  height: 15rem;
+  width: 4rem;
+  border: none;
+  box-shadow: 0px 0px 10px -5px black;
+  border-radius: 6px;
+  font-weight: bold;
+}
